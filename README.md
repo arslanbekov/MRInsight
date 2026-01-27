@@ -2,6 +2,15 @@
 
 AI-powered MRI DICOM scan analysis using Claude.
 
+<details>
+  <summary>Screenshots</summary>
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/42363c29-db44-4fb6-95e7-998da5299436" />
+<img width="700" alt="2" src="https://github.com/user-attachments/assets/ce840d5c-93ba-42d8-888e-5aaa335dc607" />
+<img width="700" alt="3" src="https://github.com/user-attachments/assets/7afcd3c8-7d5c-4889-b036-55832421e6d2" />
+<img width="700" alt="4" src="https://github.com/user-attachments/assets/b40f8889-9169-415a-be07-5d870dc20e5a" />
+<img width="700" alt="5" src="https://github.com/user-attachments/assets/2ca7ec8d-ef4d-4148-89b7-8e4833170c5a" />
+</details>
+
 ## Features
 
 - **DICOM file loading** - from local folder or drag & drop
