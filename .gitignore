@@ -1,0 +1,32 @@
+# Python
+backend/venv/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Uploads (DICOM files)
+uploads/
+
+# Environment
+.env
+.env.local
+*.log
+
+# Build
+*.egg-info/
+build/
+dist/
